@@ -1,4 +1,4 @@
-# Log of 100DaysOfCode - dont in 2019
+# Log of 100DaysOfCode - done in 2019
 
 
 ### Day 1: April 1. Monday
