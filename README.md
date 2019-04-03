@@ -26,7 +26,16 @@
     * Arch Linux with LTS kernel
     * Gnome Desktop environment with standard configuration
     * Used IDE for Java: IntelliJ IDEA professional
-  * External monitor: BenQ 21" (research for the name later)
+  * External monitor: BenQ 21" GW2270
   * External Mouse: Logitech MX Master
   * External Keyboard: AUKEY mechanical keyboard (without numberpad)
+  
+  
+  ### Day 3: April 3. Wednesday
+
+**Today's Progress**: Created a new method for adding multiple matrices with a var args parameter. It's 80% working and I'm gonna fix the last mistakes today or tomorrow.
+
+**Thoughts:** It's early in the morning and I forgot that an array is a static data structure in java XD So I figured the problem out. 
+
+**Link to work:** [MCalc](https://github.com/LunarCultist/MCalc/commit/7740579949e50a3d67f5eb79aa96df8259eb3ecd)
     
