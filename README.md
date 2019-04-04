@@ -31,11 +31,20 @@
   * External Keyboard: AUKEY mechanical keyboard (without numberpad)
   
   
-  ### Day 3: April 3. Wednesday
+### Day 3: April 3. Wednesday
 
 **Today's Progress**: Created a new method for adding multiple matrices with a var args parameter. It's 80% working and I'm gonna fix the last mistakes today or tomorrow.
 
 **Thoughts:** It's early in the morning and I forgot that an array is a static data structure in java XD So I figured the problem out. 
 
 **Link to work:** [MCalc](https://github.com/LunarCultist/MCalc/commit/7740579949e50a3d67f5eb79aa96df8259eb3ecd)
+
+
+### Day 4: April 4. Thursday
+
+**Today's Progress**: I finished and bugfixed all basic calculating methods. So I started implementing a simple command line user interface and got some ideas for it.
+
+**Thoughts:** Today I started later with the challenge and it was much more effective and the concentration was better.
+
+**Link to work:** [MCalc](https://github.com/LunarCultist/MCalc/commit/fce4672e2473f83da22f3cfb7f248a81b02b5393)
     
