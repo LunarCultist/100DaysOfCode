@@ -47,4 +47,13 @@
 **Thoughts:** Today I started later with the challenge and it was much more effective and the concentration was better.
 
 **Link to work:** [MCalc](https://github.com/LunarCultist/MCalc/commit/fce4672e2473f83da22f3cfb7f248a81b02b5393)
+
+
+### Day 5: April 5. Friday
+
+**Today's Progress**: Today I implemented the adding, multiplying, deleting, and inserting feature of the command line user interface. 80% done.
+
+**Thoughts:** I did the challenge very lately today, but the work was easy, so I wrote many lines and they work.
+
+**Link to work:** [MCalc](https://github.com/LunarCultist/MCalc/commit/4ce3531a5bc717ba7053604f3aa786a79c5b89f2)
     
