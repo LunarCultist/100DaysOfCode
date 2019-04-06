@@ -56,4 +56,13 @@
 **Thoughts:** I did the challenge very lately today, but the work was easy, so I wrote many lines and they work.
 
 **Link to work:** [MCalc](https://github.com/LunarCultist/MCalc/commit/4ce3531a5bc717ba7053604f3aa786a79c5b89f2)
+
+
+### Day 6: April 6. Saturday
+
+**Today's Progress**: Today I implemented an input verfication for all methods and wrote down an idea how to finish the method for adding and multiplying with user input.
+
+**Thoughts:** Nice weather and less motivation. Did my "work" anyway.
+
+**Link to work:** [MCalc](https://github.com/LunarCultist/MCalc/commit/9f21c64ff916c85b369197d509d467c29851d8ae)
     
