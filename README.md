@@ -65,4 +65,13 @@
 **Thoughts:** Nice weather and less motivation. Did my "work" anyway.
 
 **Link to work:** [MCalc](https://github.com/LunarCultist/MCalc/commit/9f21c64ff916c85b369197d509d467c29851d8ae)
+
+
+### Day 7: April 7. Sunday
+
+**Today's Progress**: Today I expanded the deleting method for multiple matrices. The problem is, that the indices change after deleting the first matrix. So I need to fix it. The rest works.
+
+**Thoughts:** First week done. Tomorrow classes begin and the challenge really starts for me, coz I have less time.
+
+**Link to work:** [MCalc](https://github.com/LunarCultist/MCalc/commit/d0e6d884fe0e54a6fd8240de74e40f296fea7c0b)
     
