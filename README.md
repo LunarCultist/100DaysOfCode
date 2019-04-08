@@ -74,4 +74,15 @@
 **Thoughts:** First week done. Tomorrow classes begin and the challenge really starts for me, coz I have less time.
 
 **Link to work:** [MCalc](https://github.com/LunarCultist/MCalc/commit/d0e6d884fe0e54a6fd8240de74e40f296fea7c0b)
+
+
+### Day 8: April 8. Monday
+
+**Today's Progress**: Today I learned some C and wrote a guessing numbers game for command line input.
+
+**Thoughts:** Little bit tired of my Java project. I am only bugfixing and it's not really...interesting. Furthermore the new Semester term started, so I needed something relaxing and interesting today. 
+
+**Link to work:** [CTutorial-GuessingNumbers](https://github.com/LunarCultist/CTutorialFiles/commit/f9902381a60b6dc622fa0b7272c7ed61366afe2e)
+
+
     
