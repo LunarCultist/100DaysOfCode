@@ -85,4 +85,14 @@
 **Link to work:** [CTutorial-GuessingNumbers](https://github.com/LunarCultist/CTutorialFiles/commit/f9902381a60b6dc622fa0b7272c7ed61366afe2e)
 
 
+
+### Day 9: April 9. Tuesday
+
+**Today's Progress**: Today I continued with learning C. I got into pointers.
+
+**Thoughts:** My time was very limited. My Java project will be continued, but today I was only motivated to learn some C.
+
+**Link to work:** [CTutorial](https://www.sololearn.com/Profile/13538556/C)
+
+
     
