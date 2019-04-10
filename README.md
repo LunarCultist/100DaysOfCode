@@ -95,4 +95,12 @@
 **Link to work:** [CTutorial](https://www.sololearn.com/Profile/13538556/C)
 
 
+### Day 10: April 10. Wednesday
+
+**Today's Progress**: Today I struggled a lot. I started making a Sudoku Tester without any help. Not easy...
+
+**Thoughts:** I am not used to C and I was tired.
+
+**Link to work:** [SudokuTester](https://github.com/LunarCultist/CTutorialFiles/commit/75098ab08ef5ad6ccb35fee30e6a72d3de5c6087)
+
     
