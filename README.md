@@ -103,4 +103,12 @@
 
 **Link to work:** [SudokuTester](https://github.com/LunarCultist/CTutorialFiles/commit/75098ab08ef5ad6ccb35fee30e6a72d3de5c6087)
 
+
+### Day 11: April 11. Thursday
+
+**Today's Progress**: Today I wrote some lines using quicksort and pointers. I learned about function pointers, structs and typedefs.
+
+**Thoughts:** Pretty new things when coming from Java
+
+**Link to work:** [UsingQuickSort](https://github.com/LunarCultist/CTutorialFiles/commit/d9bbd3314c9b2117e3b3a51db1fabe349bef134e)
     
