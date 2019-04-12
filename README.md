@@ -111,4 +111,13 @@
 **Thoughts:** Pretty new things when coming from Java
 
 **Link to work:** [UsingQuickSort](https://github.com/LunarCultist/CTutorialFiles/commit/d9bbd3314c9b2117e3b3a51db1fabe349bef134e)
+
+
+### Day 12: April 12. Friday
+
+**Today's Progress**: Today I started setting up my peneratrion test workstation and did some basics.
+
+**Thoughts:** First experience with penetration tests.
+
+**Link to work:** UDEMY Course
     
