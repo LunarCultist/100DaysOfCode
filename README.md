@@ -120,4 +120,13 @@
 **Thoughts:** First experience with penetration tests.
 
 **Link to work:** UDEMY Course
+
+
+### Day 13: April 13. Saturday
+
+**Today's Progress**: Today I continued with creation of my penetration test worksation und learned about communication between servers.
+
+**Thoughts:** Niceee
+
+**Link to work:** UDEMY Course
     
