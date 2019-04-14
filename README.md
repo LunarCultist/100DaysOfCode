@@ -129,4 +129,13 @@
 **Thoughts:** Niceee
 
 **Link to work:** UDEMY Course
+
+
+### Day 14: April 14. Sunday
+
+**Today's Progress**: Today I continued with creation of my penetration test worksation und learned about types and steps of hacking attacks. Furthermore I finished creating my testing lab with some servers.
+
+**Thoughts:** Now I can start.
+
+**Link to work:** UDEMY Course
     
