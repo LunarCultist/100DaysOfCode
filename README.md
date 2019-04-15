@@ -138,4 +138,12 @@
 **Thoughts:** Now I can start.
 
 **Link to work:** UDEMY Course
-    
+
+
+### Day 15: April 15. Monday
+
+**Today's Progress**: Today I continued with creation of my penetration test worksation und learned about anonymity, proxy networks and encryption.
+
+**Thoughts:** Cool
+
+**Link to work:** UDEMY Course
