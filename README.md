@@ -147,3 +147,14 @@
 **Thoughts:** Cool
 
 **Link to work:** UDEMY Course
+
+
+### Day 16: April 16. Tuesday
+
+**Today's Progress**: Today I went back to C and implemented some simple programs using pointers.
+
+**Thoughts:** Pointers are difficult for me, because I am totaly not used to them from Java.
+
+**Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/b6970cb73a15cd6b02b6626ed0684cca20653fd8)
+
+
