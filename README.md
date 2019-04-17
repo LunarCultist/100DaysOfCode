@@ -158,3 +158,10 @@
 **Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/b6970cb73a15cd6b02b6626ed0684cca20653fd8)
 
 
+### Day 17: April 17. Wednesday
+
+**Today's Progress**: Today I learned about unions and malloc and free methods of stdlib and wrote some example programs including them.
+
+**Thoughts:** Cool.
+
+**Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/238a9c6f5dcb3795943181cf0425af8a9f8b66b5)
