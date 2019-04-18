@@ -165,3 +165,12 @@
 **Thoughts:** Cool.
 
 **Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/238a9c6f5dcb3795943181cf0425af8a9f8b66b5)
+
+
+### Day 18: April 18. Thursday
+
+**Today's Progress**: Today I learned about calloc and malloc. 
+
+**Thoughts:** I'm ill, so I just read about it. 
+
+**Link to work:** [CTutorial]()
