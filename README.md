@@ -174,3 +174,13 @@
 **Thoughts:** I'm ill, so I just read about it. 
 
 **Link to work:** [CTutorial]()
+
+
+### Day 19: April 19. Friday
+
+**Today's Progress**: Today I learned about memory management, IO and exceptions.
+
+**Thoughts:** Still ill, but wrote some code.
+
+**Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/4ea5eb1c918294d4a699d8fb0ab8984d5988edf9)
+
