@@ -184,3 +184,11 @@
 
 **Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/4ea5eb1c918294d4a699d8fb0ab8984d5988edf9)
 
+
+### Day 20: April 20. Saturday
+
+**Today's Progress**: Today I learned about expeptions and makros.
+
+**Thoughts:** Finished the course. 
+
+**Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/6869b152c1aa48bd1b2d8cb401e4ff28f26d15a1)
