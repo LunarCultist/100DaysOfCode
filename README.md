@@ -192,3 +192,13 @@
 **Thoughts:** Finished the course. 
 
 **Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/6869b152c1aa48bd1b2d8cb401e4ff28f26d15a1)
+
+
+### Day 21: April 21. Sunday
+
+**Today's Progress**: Today I tried to write some programs...
+
+**Thoughts:** And failed. Very bad day for private reasons. But I figured out some new problems, I didnt have in Java
+
+**Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/e52365d1e450e9dde82dd6e76d63a1539212b88a)
+
