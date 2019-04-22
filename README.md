@@ -202,3 +202,14 @@
 
 **Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/e52365d1e450e9dde82dd6e76d63a1539212b88a)
 
+
+### Day 22: April 22. Monday
+
+**Today's Progress**: Today I tried to write a shing shang shong program.
+
+**Thoughts:** I found more mistakes and differences to Java. I need to use pointers more....
+
+**Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/75e942cf20fbcf0834cd88356aaa1324ad10feda)
+
+
+
