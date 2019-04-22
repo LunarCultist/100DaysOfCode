@@ -207,7 +207,7 @@
 
 **Today's Progress**: Today I tried to write a shing shang shong program.
 
-**Thoughts:** I found more mistakes and differences to Java. I need to use pointers more....
+**Thoughts:** I found more mistakes and differences to Java. I need to use pointers more... Here is implemented in Java, what I wanted to do in C   https://github.com/LunarCultist/Foo/commit/19dfd0bee1225c3f4254120419d2b831ce04ac6c
 
 **Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/75e942cf20fbcf0834cd88356aaa1324ad10feda)
 
