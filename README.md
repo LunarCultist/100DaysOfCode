@@ -212,4 +212,14 @@
 **Link to work:** [CTutorial](https://github.com/LunarCultist/CTutorialFiles/commit/75e942cf20fbcf0834cd88356aaa1324ad10feda)
 
 
+### Day 23: April 23. Tuesday
+
+**Today's Progress**: Today I tried finished the shingshangshong game. Last minutes I started with a tictactoe.
+
+**Thoughts:** I did it. Maybe not very beautiful, but it works. Gonna continue with C. 
+
+**Link to work:** [ShingShangShong](https://github.com/LunarCultist/ShingShangShong/commit/53d80f14a44cb81a206d597e0a08b621fa2019d6)
+[TicTacToe](https://github.com/LunarCultist/ShingShangShong/commit/3c574a5a8fb713c529c080e6053d640835e93a0b)
+
+
 
