@@ -219,7 +219,7 @@
 **Thoughts:** I did it. Maybe not very beautiful, but it works. Gonna continue with C. 
 
 **Link to work:** [ShingShangShong](https://github.com/LunarCultist/ShingShangShong/commit/53d80f14a44cb81a206d597e0a08b621fa2019d6)
-   [TicTacToe](https://github.com/LunarCultist/ShingShangShong/commit/3c574a5a8fb713c529c080e6053d640835e93a0b)
+, [TicTacToe](https://github.com/LunarCultist/ShingShangShong/commit/3c574a5a8fb713c529c080e6053d640835e93a0b)
 
 
 
