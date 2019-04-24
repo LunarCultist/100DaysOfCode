@@ -222,4 +222,13 @@
 , [TicTacToe](https://github.com/LunarCultist/ShingShangShong/commit/3c574a5a8fb713c529c080e6053d640835e93a0b)
 
 
+### Day 24: April 24. Wednesday
+
+**Today's Progress**: Today I wrote a cheat sheet about pointers in C.
+
+**Thoughts:** Hihihi
+
+**Link to work:** [Pointers-Cheat-Sheet](https://github.com/LunarCultist/CTutorialFiles/blob/master/Pointers%20in%20C%20-%20cheat%20sheet.pdf)
+
+
 
