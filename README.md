@@ -231,4 +231,12 @@
 **Link to work:** [Pointers-Cheat-Sheet](https://github.com/LunarCultist/CTutorialFiles/blob/master/Pointers%20in%20C%20-%20cheat%20sheet.pdf)
 
 
+### Day 25: April 25. Thursday
+
+**Today's Progress**: Today I continued with the Udemy Course and learned about kryptographics.
+
+**Thoughts:** Hihihi
+
+**Link to work:** Udemy Course
+
 
