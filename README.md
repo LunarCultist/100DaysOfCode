@@ -240,3 +240,11 @@
 **Link to work:** Udemy Course
 
 
+### Day 26: April 26. Friday
+
+**Today's Progress**: no progress 
+
+**Thoughts:** Ill :(
+
+**Link to work:** meow
+
